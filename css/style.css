@@ -98,6 +98,11 @@ button:focus {
   padding-bottom: 120px;
 }
 
+.p_50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .mt-25 {
   margin-top: 25px;
 }
@@ -848,7 +853,7 @@ button:focus {
 }
 
 .feature_area .overlay {
-  background: url(../img/feature-bg.jpg) no-repeat scroll center center;
+  background: url(../img/feature-bg.jpg) repeat ;
   position: absolute;
   left: 0;
   right: 0;
