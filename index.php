@@ -2,10 +2,14 @@
 <html lang="en">
     <head>
      
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>KALPANAA: A Women Entrepreneur Support Programme</title>
-        <!-- Bootstrap CSS -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>KALPANAA: A Women Entrepreneur Support Programme</title>
+		<meta content="Kalpanaa by CodeBinary Private Limited" name="author">
+		<meta content="Women, Entrepreneur, Support, Business" name="keywords">
+		<meta content="Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business." name="description">
+  
+		<link rel="canonical" href="https://kalpanaa.codebinary.in/" />
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="vendors/linericon/style.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -13,10 +17,8 @@
         <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
         <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
         <link rel="stylesheet" href="vendors/animate-css/animate.css">
-        <!-- main css -->
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/responsive.css">
-		
 		<link rel="shortcut icon" href="img/shortcut_icon.png" />
     </head>
 	<style>
@@ -27,10 +29,33 @@
     <body>
        
         <header class="header_area">
+			<div class="top_menu row m0">
+           		<div class="container">
+					<div class="float-left">
+						<ul class="list header_social">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="https://codebinary.slack.com/"><i class="fa fa-slack"></i></a></li>
+							<li><a href="https://github.com/projectcodebinary"><i class="fa fa-github"></i></a></li>
+						</ul>
+					</div>
+					<div class="float-right">
+						<!--<select class="lan_pack">
+							<option value="1">English</option>
+							<option value="1">Bangla</option>
+							<option value="1">Indian</option>
+							<option value="1">Aus</option>
+						</select> -->
+						<a class="ac_btn" href="#">My Account</a>
+						<a class="dn_btn" href="#">Register Now</a>
+					</div>
+           		</div>	
+           	</div>	
+			
             <div class="main_menu">
             	<nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container">
-						<a class="navbar-brand logo_h" href="."><img src="img/kalpanaa_header.png" style="height:130px; width:130px;" alt="KALPANAA"></a>
+						<a class="navbar-brand logo_h" href="."><img src="img/kalpanaa_header.png" style="height:90px; width:90px;" alt="KALPANAA"></a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -62,8 +87,7 @@
 						<h4>A Women Entrepreneur Support Programme</h4>
 						</br>
 						<p>Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
-						<a class="main_btn" href="#about">Know More</a>
-						<a class="white_btn" href="#">Register Now</a>
+						
 					</div>
 				</div>
             </div>
@@ -157,7 +181,9 @@
                 <div class="row">
                     <div class="col-lg-2"></div>
                     <div class="col-lg-8">
-                        <form class="row contact_form" action="contact_process.php" method="post" id="contactForm">
+					<div id="sendmessage"></div>
+                    <div id="errormessage"></div>
+                        <form class="row contact_form contactForm" action="" method="post">
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
@@ -197,10 +223,10 @@
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Contact Us</h6>
 							<p>
-								Dwarka Sector 7 Extension<br>
-								New Delhi, 110045<br>
-								India <br>
-								<strong>Email:</strong> contact@codebinary.in<br>
+							FF-27,Cross Road Mall,Central Spine,</br>
+							Vidhyadhar Nagar, Jaipur</br>
+							Rajasthan, India</br></br>
+							Email: contact@codebinary.in
 							</p>						
                         </div>
                     </div>							
@@ -208,9 +234,9 @@
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Useful Links</h6>
                             <ul class="list">
-                                        <li><a href="#home">Home</a></li>
-										<li><a href="#" target="_blank">Terms of Service</a></li>
-										<li><a href="#" target="_blank">Privacy Policy</a></li>
+                                        <li><a href="https://codebinary.in/privacy-policy.html">Privacy Policy</a></li>
+										<li><a href="https://codebinary.in/terms-of-service.html">Terms of Service</a></li>
+										<li><a href="https://codebinary.in/acceptable-use-policy.html">Acceptable Use Policy</a></li>
                                     </ul>
                         </div>
                     </div>			
@@ -218,7 +244,7 @@
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved.</p>
+                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Private Limited</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">SproutingWings Private Limited</a></p>
                 </div>
             </div>
         </footer>
@@ -235,7 +261,8 @@
         <script src="vendors/isotope/isotope-min.js"></script>
         <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="js/jquery.ajaxchimp.min.js"></script>
-        <script src="js/mail-script.js"></script>
         <script src="js/theme.js"></script>
+		<!-- Contact Form JavaScript File -->
+		<script src="contactform/contactform.js"></script>
     </body>
 </html>
