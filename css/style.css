@@ -516,7 +516,7 @@ button:focus {
 }
 
 .banner_area .banner_inner .overlay {
-  background: url(../img/banner/banner.jpg) no-repeat scroll center center;
+  background: url(../img/banner/journey.jpg) no-repeat scroll center center;
   position: absolute;
   left: 0;
   right: 0;
@@ -673,7 +673,7 @@ button:focus {
 }
 
 .dontation_item {
-  padding: 30px;
+  padding: 10px 0px 0px 0px;
 }
 
 .dontation_item .media {
@@ -688,7 +688,6 @@ button:focus {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   text-transform: uppercase;
-  margin-bottom: 15px;
 }
 
 .dontation_item .media .media-body p {
@@ -810,7 +809,7 @@ button:focus {
 }
 
 .feature_area .overlay {
-  background: url(../img/feature-bg.jpg) repeat ;
+  background: url(../img/banner/feature.jpg) repeat ;
   position: absolute;
   left: 0;
   right: 0;

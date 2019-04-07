@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['email'])) {
  
-    $email_to = "contact@codebinary.in";
+    $email_to = "kalpanaa@codebinary.in";
     
     $name = $_POST['name']; // required
     $email_from = $_POST['email']; // required
@@ -25,7 +25,7 @@ $headers = 'From: '.$email_from."\r\n".
 'X-Mailer: PHP/' . phpversion();
 mail($email_to, $subject, $email_message, $headers);  
 
-echo "Thank You for contacting us. We will get to you soon.";
+echo "Thank You for contacting us. We will get back to you soon.";
 
 }
 ?>

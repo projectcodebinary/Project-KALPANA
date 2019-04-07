@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /contactform
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /scss
+Disallow: /settings
+Disallow: /vendors
+Sitemap: https://kalpanaa.codebinary.in/sitemap.xml

@@ -1,13 +1,11 @@
 <!doctype html>
 <html lang="en">
     <head>
-     
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>KALPANAA: A Women Entrepreneur Support Programme</title>
+		<title>Kalpanaa: A Women Entrepreneur Support Programme</title>
 		<meta content="Kalpanaa by CodeBinary Private Limited" name="author">
-		<meta content="Women, Entrepreneur, Support, Business" name="keywords">
-		<meta content="Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business." name="description">
+		<meta content="Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global." name="description">
   
 		<link rel="canonical" href="https://kalpanaa.codebinary.in/" />
         <link rel="stylesheet" href="css/bootstrap.css">
@@ -20,6 +18,16 @@
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/responsive.css">
 		<link rel="shortcut icon" href="img/shortcut_icon.png" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136232244-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136232244-2');
+</script>
+
     </head>
 	<style>
 	html {
@@ -33,9 +41,8 @@
            		<div class="container">
 					<div class="float-left">
 						<ul class="list header_social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="https://codebinary.slack.com/"><i class="fa fa-slack"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/codebinary/"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://www.instagram.com/project.codebinary/"><i class="fa fa-instagram"></i></a></li>
 							<li><a href="https://github.com/projectcodebinary"><i class="fa fa-github"></i></a></li>
 						</ul>
 					</div>
@@ -45,9 +52,9 @@
 							<option value="1">Bangla</option>
 							<option value="1">Indian</option>
 							<option value="1">Aus</option>
-						</select> -->
-						<a class="ac_btn" href="#">My Account</a>
-						<a class="dn_btn" href="#">Register Now</a>
+						</select> 
+						<a class="ac_btn" href="#">My Account</a>-->
+						<a class="dn_btn" href="get-started.php">GET STARTED</a>
 					</div>
            		</div>	
            	</div>	
@@ -55,7 +62,7 @@
             <div class="main_menu">
             	<nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container">
-						<a class="navbar-brand logo_h" href="."><img src="img/kalpanaa_header.png" style="height:90px; width:90px;" alt="KALPANAA"></a>
+						<a class="navbar-brand logo_h" href="."><img src="img/kalpanaa_header.png" style="height:90px; width:90px;" alt="Kalpanaa"></a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -67,7 +74,7 @@
 								<li class="nav-item"><a class="nav-link" href="#about">About</a></li> 
 								<li class="nav-item"><a class="nav-link" href="#insight">Insight</a></li> 
 								<li class="nav-item"><a class="nav-link" href="#vision">Our Vision</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">Register</a></li>
+								<li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
 								<li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
 							</ul>
 						</div> 
@@ -86,7 +93,7 @@
 						<h1>KALPANAA</h1>
 						<h4>A Women Entrepreneur Support Programme</h4>
 						</br>
-						<p>Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
+						<p>Launched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
 						
 					</div>
 				</div>
@@ -105,17 +112,17 @@
         			</div>
         			<div class="col-lg-6">
         				<div class="welcome_img">
-        					<img class="img-fluid" src="img/welcome-img.jpg" alt="">
+        					<img class="img-fluid" src="img/welcome-img.jpg" alt="About">
         				</div>
         			</div>
 				</div>
-			</div>
+				</div>
 		<section class="welcome_area p_50" id="insight">
         	<div class="container">
 				<div class="row welcome_inner">
         			<div class="col-lg-6">
         				<div class="welcome_img">
-        					<img class="img-fluid" src="img/need-img.jpg" alt="">
+        					<img class="img-fluid" src="img/need-img.jpg" alt="Insight">
         				</div>
         			</div>
         			<div class="col-lg-6">
@@ -139,7 +146,7 @@
         			<div class="item">
         				<div class="causes_item">
         					<div class="causes_img">
-        						<img class="img-fluid" src="img/eg-bg.jpeg" alt="">
+        						<img class="img-fluid" src="img/eg-bg.jpeg" alt="Economic Growth">
         					</div>
         					<div class="causes_text">
         						<h4>Economic Growth</h4>
@@ -150,7 +157,7 @@
         			<div class="item">
         				<div class="causes_item">
         					<div class="causes_img">
-        						<img class="img-fluid" src="img/gg-bg.png" alt="">
+        						<img class="img-fluid" src="img/gg-bg.png" alt="Narrowing Gender Gap">
         					</div>
         					<div class="causes_text">
         						<h4>Narrowing Gender Gap</h4>
@@ -161,7 +168,7 @@
         			<div class="item">
         				<div class="causes_item">
         					<div class="causes_img">
-        						<img class="img-fluid" src="img/sc-bg.jpg" alt="">
+        						<img class="img-fluid" src="img/sc-bg.jpg" alt="Social Change">
         					</div>
         					<div class="causes_text">
         						<h4>Social Change</h4>
@@ -173,15 +180,110 @@
         	</div>
         </section>
 		
+		<section class="feature_area p_50" id="pricing">
+        	<div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0" data-background=""></div>
+        	<div class="container">
+        		<div class="white_title">
+        			<h2>Pricing</h2>
+					<p>The most affordable and simple solution to boost women in their entrepreneurial venture. We have kept the subscription costs as low as possible so that more women can avail of the opportunities that we provide through different plans.</p>
+        		</div>
+        		<div class="row feature_inner">
+        			<div class="col-lg-4">
+        				<div class="feature_item">
+        					<h3>Basic</h3>
+							<h2><sup>₹</sup>1000/mo</h2>
+							<div style="text-align:left">
+									<ul class="unordered-list">
+										<li>Single-Page Website</li>
+										<li>Domain Support <em>yourbusiness.codebinary.in</em></li>
+										<li>Hosting Support</li>
+										<li>1 Database</li>
+										<li>1 Business Email</li>
+										<li>10 GB Storage</li>
+										<li>NO SSL Certificate</li>
+										<li>Logo Design</li>
+										<li>100 Business Card</li>
+										<li>1000 SMS Marketing</li>
+										<li>Unmetered Bandwidth</li>
+										<li>Technical Support and Maintenance</li>
+										<li>CMS Support by Github</li>
+										<li>UdyogAadhar Assistance</li>
+										<li>US Data Center</li>
+										<li>Subscription Duration: 3 months</li>
+									</ul>
+							</div>
+							<hr>
+							<a href="get-started.php" class="genric-btn pink radius" style="color:#fff">GET STARTED</a>
+        				</div>
+        			</div>
+        			<div class="col-lg-4">
+        				<div class="feature_item">
+        					<h3>Standard</h3>
+							<h2><sup>₹</sup>1500/mo</h2>
+							<div style="text-align:left">
+									<ul class="unordered-list">
+										<li>4-Page Website</li>
+										<li>Domain Support <em>yourbusiness.codebinary.in</em></li>
+										<li>Hosting Support</li>
+										<li>2 Database</li>
+										<li>2 Business Email</li>
+										<li>20 GB Storage</li>
+										<li>NO SSL Certificate</li>
+										<li>Logo Design, Business Card Design</li>
+										<li>1000 Business Card</li>
+										<li>2000 SMS Marketing</li>
+										<li>Unmetered Bandwidth</li>
+										<li>Technical Support and Maintenance</li>
+										<li>CMS Support by Github</li>
+										<li>UdyogAadhar Assistance</li>
+										<li>US Data Center</li>
+										<li>Subscription Duration: 3 months</li>
+									</ul>
+							</div><hr>
+							<a href="get-started.php" class="genric-btn pink radius" style="color:#fff">GET STARTED</a>
+        				</div>
+        			</div>
+        			<div class="col-lg-4">
+        				<div class="feature_item">
+        					<h3>Premium</h3>
+							<h2><sup>₹</sup>3000/mo</h2>
+							<div style="text-align:left">
+									<ul class="unordered-list">
+										<li>Unlimited-Page Website</li>
+										<li>Domain Support <em>yourbusiness.codebinary.in</em></li>
+										<li>Hosting Support</li>
+										<li>Unlimited Database</li>
+										<li>Unlimited Business Email</li>
+										<li>Unlimited Storage</li>
+										<li>SSL Certificate Support</li>
+										<li>Logo Design, Business Card Design</li>
+										<li>2000 Business Card</li>
+										<li>10000 SMS Marketing</li>
+										<li>Unmetered Bandwidth</li>
+										<li>Technical Support and Maintenance</li>
+										<li>CMS Support by Github</li>
+										<li>UdyogAadhar Assistance</li>
+										<li>US Data Center</li>
+										<li>Subscription Duration: 3 months</li>
+									</ul>
+							</div><hr>
+							<a href="get-started.php" class="genric-btn pink radius" style="color:#fff">GET STARTED</a>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        </section>
+		
 		<section class="contact_area p_50" id="contact">
             <div class="container">
 				<div class="main_title">
         			<h2>We Are Here</h2>
         		</div>
+				
                 <div class="row">
                     <div class="col-lg-2"></div>
                     <div class="col-lg-8">
-					<div id="sendmessage"></div>
+					<div id="sendmessage" ></div><br>
                     <div id="errormessage"></div>
                         <form class="row contact_form contactForm" action="" method="post">
                             <div class="col-md-6">
@@ -213,7 +315,7 @@
         <footer class="footer-area section_gap">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6  col-md-6 col-sm-6">
+                    <div class="col-lg-5  col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">About</h6>
                             <p>Kalpana is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
@@ -226,11 +328,11 @@
 							FF-27,Cross Road Mall,Central Spine,</br>
 							Vidhyadhar Nagar, Jaipur</br>
 							Rajasthan, India</br></br>
-							Email: contact@codebinary.in
+							Email: kalpanaa@codebinary.in
 							</p>						
                         </div>
                     </div>							
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Useful Links</h6>
                             <ul class="list">
@@ -239,15 +341,32 @@
 										<li><a href="https://codebinary.in/acceptable-use-policy.html">Acceptable Use Policy</a></li>
                                     </ul>
                         </div>
-                    </div>			
+                    </div>	
+					<div class="col-lg-2  col-md-6 col-sm-6">
+						<img class="img-fluid" src="img/app.png" style="height:100px;" alt="Coming Soon">
+					</div>
                 </div>
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Private Limited</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">SproutingWings Private Limited</a></p>
+                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Pvt. Ltd.</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">SproutingWings Pvt. Ltd.</a></p>
                 </div>
             </div>
         </footer>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5ca9d130557d5f68515b4697/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
