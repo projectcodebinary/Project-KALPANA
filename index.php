@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Kalpanaa: A Women Entrepreneur Support Programme</title>
-		<meta content="Kalpanaa by CodeBinary Private Limited" name="author">
+		<meta content="Kalpanaa by CodeBinary Initiatives" name="author">
 		<meta content="Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global." name="description">
   
 		<link rel="canonical" href="https://kalpanaa.codebinary.in/" />
@@ -41,9 +41,9 @@
            		<div class="container">
 					<div class="float-left">
 						<ul class="list header_social">
-							<li><a href="https://www.linkedin.com/company/codebinary/"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="https://www.instagram.com/project.codebinary/"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="https://github.com/projectcodebinary"><i class="fa fa-github"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/codebinary/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://www.instagram.com/codebinary.initiatives/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="https://github.com/projectcodebinary" target="_blank"><i class="fa fa-github"></i></a></li>
 						</ul>
 					</div>
 					<div class="float-right">
@@ -258,7 +258,7 @@
 										<li>SSL Certificate Support</li>
 										<li>Logo Design, Business Card Design</li>
 										<li>2000 Business Card</li>
-										<li>10000 SMS Marketing</li>
+										<li>5000 SMS Marketing</li>
 										<li>Unmetered Bandwidth</li>
 										<li>Technical Support and Maintenance</li>
 										<li>CMS Support by Github</li>
@@ -336,9 +336,9 @@
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Useful Links</h6>
                             <ul class="list">
-                                        <li><a href="https://codebinary.in/privacy-policy.html">Privacy Policy</a></li>
-										<li><a href="https://codebinary.in/terms-of-service.html">Terms of Service</a></li>
-										<li><a href="https://codebinary.in/acceptable-use-policy.html">Acceptable Use Policy</a></li>
+                                        <li><a href="https://codebinary.in/privacy-policy.html" target="_blank">Privacy Policy</a></li>
+										<li><a href="https://codebinary.in/terms-of-service.html" target="_blank">Terms of Service</a></li>
+										<li><a href="https://codebinary.in/acceptable-use-policy.html" target="_blank">Acceptable Use Policy</a></li>
                                     </ul>
                         </div>
                     </div>	
@@ -349,7 +349,7 @@
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Pvt. Ltd.</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">SproutingWings Pvt. Ltd.</a></p>
+                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Initatives</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">Sprouting Wings</a></p>
                 </div>
             </div>
         </footer>

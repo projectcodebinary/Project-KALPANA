@@ -53,7 +53,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Kalpanaa: Get Started</title>
-		<meta content="Kalpanaa by CodeBinary Private Limited" name="author">
+		<meta content="Kalpanaa by Initiatives" name="author">
 		<meta content="Learn about the world of entrepreneurship, find access to high-quality credit sources, solidify your position and build a better marketplace." name="description">
   
 		<link rel="canonical" href="https://kalpanaa.codebinary.in/get-started.php" />
@@ -90,9 +90,9 @@
            		<div class="container">
 					<div class="float-left">
 						<ul class="list header_social">
-							<li><a href="https://www.linkedin.com/company/codebinary/"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="https://www.instagram.com/project.codebinary/"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="https://github.com/projectcodebinary"><i class="fa fa-github"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/codebinary/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://www.instagram.com/codebinary.initiatives/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="https://github.com/projectcodebinary" target="_blank"><i class="fa fa-github"></i></a></li>
 						</ul>
 					</div>
 					<div class="float-right">
@@ -203,7 +203,7 @@
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Pvt. Ltd.</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">SproutingWings Pvt. Ltd.</a></p>
+                   A programme jointly offered by <a href="http://codebinary.in/" target="_blank">CodeBinary Initiatives</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/" target="_blank">Sprouting Wings</a></p>
                 </div>
             </div>
         </footer>
