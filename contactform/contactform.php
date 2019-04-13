@@ -26,6 +26,8 @@ $headers = 'From: '.$email_from."\r\n".
 mail($email_to, $subject, $email_message, $headers);  
 
 echo "Thank You for contacting us. We will get back to you soon.";
-
+echo "<script>
+ $('.contactForm').find('input, textarea').val('');
+</script> " ;
 }
 ?>

@@ -83,8 +83,7 @@
 	scroll-behavior: smooth;
 	}
 	</style>
-    <body>
-        
+    <body onload="createCaptcha()">
         <header>
            	<div class="top_menu row m0">
            		<div class="container">
@@ -126,10 +125,9 @@
         <section class="donation_f_area p_50">
         	<div class="container">
         		<div class="row donation_f_inner">
-        			
         			<div class="col-lg-10 offset-lg-1">
         				<div class="dn_form_area">
-        					<form class="donation_form row" action="" method="post" id="contactForm">
+        					<form class="donation_form row" action="" method="post" id="form" onsubmit="validateCaptcha()">
 								<div class="form-group col-lg-6">
                                     <input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required>
                                 </div>
@@ -155,6 +153,10 @@
 								<div class="form-group col-lg-12">
                                     <textarea class="form-control" name="business_idea" id="bid" rows="5" placeholder="Your Business Idea" required></textarea>
                                 </div>
+								<div class="form-group col-lg-12">
+								<div id="captcha"></div>
+								<input type="text" placeholder="Captcha" id="cpatchaTextBox"/>
+								</div>
                                 <div class="form-group col-md-12">
                                     <button type="submit" value="submit" class="btn submit_btn form-control">Submit & Proceed To Pay</button>
                                 </div>

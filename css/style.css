@@ -1,6 +1,12 @@
 
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700");
 
+canvas{
+  /*prevent interaction with the canvas*/
+  pointer-events:none;
+}
+
+
 .list {
   list-style: none;
   margin: 0px;
