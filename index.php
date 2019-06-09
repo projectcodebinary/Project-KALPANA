@@ -52,8 +52,8 @@
 							<option value="1">Bangla</option>
 							<option value="1">Indian</option>
 							<option value="1">Aus</option>
-						</select> 
-						<a class="ac_btn" href="#">My Account</a>-->
+						</select> -->
+						<a class="ac_btn" href="https://codebinaryinitiatives.setmore.com/" target="_blank">Book an Appointment</a>
 						<a class="dn_btn" href="get-started.php">GET STARTED</a>
 					</div>
            		</div>	
@@ -76,6 +76,7 @@
 								<li class="nav-item"><a class="nav-link" href="#vision">Our Vision</a></li>
 								<li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
 								<li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+								<li class="nav-item"><a class="nav-link" href="https://kalpanaawesp.wordpress.com/">Stories</a></li>
 							</ul>
 						</div> 
 					</div>
@@ -106,7 +107,7 @@
         			<div class="col-lg-6">
         				<div class="welcome_text">
         					<h4>About &nbsp;कल्पना</h4>
-							<p>Kalpana is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business. </br></br>
+							<p>Kalpanaa is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business. </br></br>
 							Through this programme women will be able access digital services and infrastructure which will shape, support and develop their ideas in order make their business endeavours successful at a very minimal and affordable cost.</p>
         				</div>
         			</div>
@@ -318,7 +319,7 @@
                     <div class="col-lg-5  col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">About</h6>
-                            <p>Kalpana is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
+                            <p>Kalpanaa is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
@@ -336,9 +337,9 @@
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Useful Links</h6>
                             <ul class="list">
-                                        <li><a href="https://codebinary.in/privacy-policy.html" target="_blank">Privacy Policy</a></li>
+                                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
 										<li><a href="https://codebinary.in/terms-of-service.html" target="_blank">Terms of Service</a></li>
-										<li><a href="https://codebinary.in/acceptable-use-policy.html" target="_blank">Acceptable Use Policy</a></li>
+										<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
                                     </ul>
                         </div>
                     </div>	
@@ -349,7 +350,7 @@
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Initatives</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">Sprouting Wings</a></p>
+                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Initatives</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">Sprouting Wings</a></br>Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong></p>
                 </div>
             </div>
         </footer>

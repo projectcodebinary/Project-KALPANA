@@ -100,8 +100,8 @@
 							<option value="1">Bangla</option>
 							<option value="1">Indian</option>
 							<option value="1">Aus</option>
-						</select>
-						<a class="ac_btn" href="#">My Account</a>-->
+						</select>-->
+						<a class="ac_btn" href="https://codebinaryinitiatives.setmore.com/" target="_blank">Book an Appointment</a>
 						<a class="dn_btn" href=".">BACK TO HOME</a>
 					</div>
            		</div>	
@@ -192,9 +192,9 @@
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Useful Links</h6>
                             <ul class="list">
-                                        <li><a href="https://codebinary.in/privacy-policy.html">Privacy Policy</a></li>
+                                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
 										<li><a href="https://codebinary.in/terms-of-service.html">Terms of Service</a></li>
-										<li><a href="https://codebinary.in/acceptable-use-policy.html">Acceptable Use Policy</a></li>
+										<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
                                     </ul>
                         </div>
                     </div>	
