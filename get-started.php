@@ -183,7 +183,8 @@
 							<p>
 							FF-27,Cross Road Mall,Central Spine,</br>
 							Vidhyadhar Nagar, Jaipur</br>
-							Rajasthan, India</br></br>
+							Rajasthan, India</br>
+							302039</br></br>
 							Email: kalpanaa@codebinary.in
 							</p>						
                         </div>
@@ -193,7 +194,7 @@
                             <h6 class="footer_title">Useful Links</h6>
                             <ul class="list">
                                         <li><a href="privacy-policy.html">Privacy Policy</a></li>
-										<li><a href="https://codebinary.in/terms-of-service.html">Terms of Service</a></li>
+										<li><a href="terms-of-service.html">Terms of Service</a></li>
 										<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
                                     </ul>
                         </div>
