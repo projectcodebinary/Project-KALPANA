@@ -101,8 +101,7 @@
 							<option value="1">Indian</option>
 							<option value="1">Aus</option>
 						</select>-->
-						<a class="ac_btn" href="https://codebinaryinitiatives.setmore.com/" target="_blank">Book an Appointment</a>
-						<a class="dn_btn" href=".">BACK TO HOME</a>
+						<a class="ac_btn" href="get-started.php" target="_blank">Get Started</a>
 					</div>
            		</div>	
            	</div>	
@@ -115,7 +114,7 @@
 					<div class="banner_content text-center"></br>
 						<h2>Start Your Journey</h2>
 						<div class="page_link">
-							<a href="#">Learn about the world of entrepreneurship, find access to high-quality credit sources, solidify your position in the global economy and build a better marketplace.</a>
+							<a href="#">Learn about the world of entrepreneurship, find access to high-quality credit sources, solidify your position in the global economy and build a better marketplace</a>
 						</div>
 					</div>
 				</div>
@@ -171,42 +170,32 @@
        <footer class="footer-area section_gap">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5  col-md-6 col-sm-6">
+                    <div class="col-lg-6  col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">About</h6>
-                            <p>Kalpana is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
+                            <p>Kalpanaa is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Contact Us</h6>
 							<p>
 							FF-27,Cross Road Mall,Central Spine,</br>
 							Vidhyadhar Nagar, Jaipur</br>
 							Rajasthan, India</br>
-							302039</br></br>
-							Email: kalpanaa@codebinary.in
+							302039
 							</p>						
                         </div>
                     </div>							
-                    <div class="col-lg-2 col-md-6 col-sm-6">
-                        <div class="single-footer-widget">
-                            <h6 class="footer_title">Useful Links</h6>
-                            <ul class="list">
-                                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
-										<li><a href="terms-of-service.html">Terms of Service</a></li>
-										<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
-                                    </ul>
-                        </div>
-                    </div>	
 					<div class="col-lg-2  col-md-6 col-sm-6">
+						<h6 class="footer_title">Coming Soon</h6>
 						<img class="img-fluid" src="img/app.png" style="height:100px;" alt="Coming Soon">
 					</div>
                 </div>
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                   A programme jointly offered by <a href="http://codebinary.in/" target="_blank">CodeBinary Initiatives</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/" target="_blank">Sprouting Wings</a></p>
+                   A programme by <a href="http://codebinary.in/">CodeBinary Initatives.</a> Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong></p>
                 </div>
             </div>
         </footer>

@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Kalpanaa: A Women Entrepreneur Support Programme</title>
 		<meta content="Kalpanaa by CodeBinary Initiatives" name="author">
-		<meta content="Lauched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global." name="description">
+		<meta content="Launched with a vision to boost the entrepreneurial spirit in women and to give their household business a new dimension by bringing it up in the global front" name="description">
   
 		<link rel="canonical" href="https://kalpanaa.codebinary.in/" />
         <link rel="stylesheet" href="css/bootstrap.css">
@@ -53,8 +53,7 @@
 							<option value="1">Indian</option>
 							<option value="1">Aus</option>
 						</select> -->
-						<a class="ac_btn" href="https://codebinaryinitiatives.setmore.com/" target="_blank">Book an Appointment</a>
-						<a class="dn_btn" href="get-started.php">GET STARTED</a>
+						<a class="ac_btn" href="get-started.php" target="_blank">Get Started</a>
 					</div>
            		</div>	
            	</div>	
@@ -76,7 +75,7 @@
 								<li class="nav-item"><a class="nav-link" href="#vision">Our Vision</a></li>
 								<li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
 								<li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
-								<li class="nav-item"><a class="nav-link" href="https://kalpanaawesp.wordpress.com/">Stories</a></li>
+								<!--<li class="nav-item"><a class="nav-link" href="https://kalpanaawesp.wordpress.com/">Stories</a></li>-->
 							</ul>
 						</div> 
 					</div>
@@ -94,7 +93,7 @@
 						<h1>KALPANAA</h1>
 						<h4>A Women Entrepreneur Support Programme</h4>
 						</br>
-						<p>Launched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
+						<p>Launched with a vision to boost the entrepreneurial spirit in women and to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business</p>
 						
 					</div>
 				</div>
@@ -108,7 +107,7 @@
         				<div class="welcome_text">
         					<h4>About &nbsp;कल्पना</h4>
 							<p>Kalpanaa is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business. </br></br>
-							Through this programme women will be able access digital services and infrastructure which will shape, support and develop their ideas in order make their business endeavours successful at a very minimal and affordable cost.</p>
+							Through this programme, women will be able to access digital services and infrastructure which will shape, support and develop their ideas in order to make their business endeavours successful at a very minimal and affordable cost.</p>
         				</div>
         			</div>
         			<div class="col-lg-6">
@@ -129,7 +128,7 @@
         			<div class="col-lg-6">
         				<div class="welcome_text">
         					<h4>Insight</h4>
-							<p>In India, women comprise about 30 percent of corporate senior management positions, which is notably higher than the global average (24 percent).</br></br> But in the overall workforce, India is one of the worst countries in the world — 113th out of 135 — when it comes to the gender gap. And women entrepreneurs constitute only 10 percent of the total number of entrepreneurs in the country.</p>
+							<p>In India, women comprise about 30 per cent of corporate senior management positions, which is notably higher than the global average (24 per cent).</br></br> But in the overall workforce, India is one of the worst countries in the world — 113th out of 135 — when it comes to the gender gap. And women entrepreneurs constitute only 10 per cent of the total number of entrepreneurs in the country.</p>
         				</div>
         			</div>
 				</div>
@@ -151,7 +150,7 @@
         					</div>
         					<div class="causes_text">
         						<h4>Economic Growth</h4>
-        						<p>Women entrepreneurs have more effective communicational, networking skills which reduces the risk of failure of their organizations.Therefore, the influx of more women into the workforce will led to significant economic growth.</p>
+        						<p>Women entrepreneurs have more effective communicational, networking skills which reduces the risk of failure of their organizations. Therefore, the influx of more women into the workforce will lead to significant economic growth.</p>
         					</div>
         				</div>
         			</div>
@@ -162,7 +161,7 @@
         					</div>
         					<div class="causes_text">
         						<h4>Narrowing Gender Gap</h4>
-        						<p>When women become successful in a field, the next generation of women is more likely to emulate their success.This leads to more job creation for women which ultimately helps in reducing the gender gap in the workforce.</p>
+        						<p>When women become successful in a field, the next generation of women is more likely to emulate their success. This leads to more job creation for women which ultimately helps in reducing the gender gap in the workforce.</p>
         					</div>
         				</div>
         			</div>
@@ -173,7 +172,7 @@
         					</div>
         					<div class="causes_text">
         						<h4>Social Change</h4>
-        						<p>Woman entrepreneurship can lead to a tremendous social change, making women financially independent. That can increase levels of confidence and happiness in women and boost their self-esteem and overall well-being.</p>
+        						<p>Woman entrepreneurship can lead to tremendous social change, making women financially independent. That can increase levels of confidence and happiness in women and boost their self-esteem and overall well-being.</p>
         					</div>
         				</div>
         			</div>
@@ -201,10 +200,7 @@
 										<li>1 Database</li>
 										<li>1 Business Email</li>
 										<li>10 GB Storage</li>
-										<li>NO SSL Certificate</li>
 										<li>Logo Design</li>
-										<li>100 Business Card</li>
-										<li>1000 SMS Marketing</li>
 										<li>Unmetered Bandwidth</li>
 										<li>Technical Support and Maintenance</li>
 										<li>CMS Support by Github</li>
@@ -229,10 +225,7 @@
 										<li>2 Database</li>
 										<li>2 Business Email</li>
 										<li>20 GB Storage</li>
-										<li>NO SSL Certificate</li>
 										<li>Logo Design, Business Card Design</li>
-										<li>1000 Business Card</li>
-										<li>2000 SMS Marketing</li>
 										<li>Unmetered Bandwidth</li>
 										<li>Technical Support and Maintenance</li>
 										<li>CMS Support by Github</li>
@@ -256,10 +249,7 @@
 										<li>Unlimited Database</li>
 										<li>Unlimited Business Email</li>
 										<li>Unlimited Storage</li>
-										<li>SSL Certificate Support</li>
 										<li>Logo Design, Business Card Design</li>
-										<li>2000 Business Card</li>
-										<li>5000 SMS Marketing</li>
 										<li>Unmetered Bandwidth</li>
 										<li>Technical Support and Maintenance</li>
 										<li>CMS Support by Github</li>
@@ -316,42 +306,32 @@
         <footer class="footer-area section_gap">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5  col-md-6 col-sm-6">
+                    <div class="col-lg-6  col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">About</h6>
                             <p>Kalpanaa is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h6 class="footer_title">Contact Us</h6>
 							<p>
 							FF-27,Cross Road Mall,Central Spine,</br>
 							Vidhyadhar Nagar, Jaipur</br>
 							Rajasthan, India</br>
-							302039</br></br>
-							Email: kalpanaa@codebinary.in
+							302039
 							</p>						
                         </div>
                     </div>							
-                    <div class="col-lg-2 col-md-6 col-sm-6">
-                        <div class="single-footer-widget">
-                            <h6 class="footer_title">Useful Links</h6>
-                            <ul class="list">
-                                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
-										<li><a href="terms-of-service.html">Terms of Service</a></li>
-										<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
-                                    </ul>
-                        </div>
-                    </div>	
 					<div class="col-lg-2  col-md-6 col-sm-6">
+						<h6 class="footer_title">Coming Soon</h6>
 						<img class="img-fluid" src="img/app.png" style="height:100px;" alt="Coming Soon">
 					</div>
                 </div>
                 <div class="border_line"></div>
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
                     <p class="col-lg-8 col-md-8 footer-text m-0">
-                   A programme jointly offered by <a href="http://codebinary.in/">CodeBinary Initatives</a> and <a href="https://www.sproutingwingsdigitalmarketing.com/">Sprouting Wings</a></br>Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong></p>
+                   A programme by <a href="http://codebinary.in/">CodeBinary Initatives.</a> Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong></p>
                 </div>
             </div>
         </footer>
